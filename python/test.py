@@ -26,7 +26,7 @@ class person:
     mouse =1
 
     def eat(self):
-        print 'yami yami\n'
+        print 'yami yami'
 
     def sleep(self)    :
         print'꿀꿀'
